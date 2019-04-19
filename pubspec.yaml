@@ -1,0 +1,29 @@
+name: itis_cards
+
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^0.12.0
+  path_provider: ^0.4.1
+  fluro: ^1.3.4
+  web_socket_channel: ^1.0.9
+  http: ^0.11.3+17
+  cached_network_image: "^0.4.1"
+  qr_flutter: ^1.1.3
+  quiver: ^0.29.0+1
+  image_picker:
+    path: plugins/image_picker
+  image_cropper:
+    path: plugins/image_cropper
+  barcode_scan:
+    path: plugins/barcode_scan
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: ChooloIcons
+      fonts:
+        - asset: assets/fonts/ChooloIcons.ttf
+    - family: AccountsIcons
+      fonts:
+        - asset: assets/fonts/AccountsIcons.ttf
