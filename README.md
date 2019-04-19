@@ -1,3 +1,10 @@
-# itis.Cards
+# ChooLo
 
-It is going to be renamed to ChooLo
+Система управления и арбитража контактных данных
+
+
+Back: NodeJS, MongoDB, SocketIo
+
+Front: Nuxt.js, Vue.js, Vuetify
+
+Mobile: Flutter, plugins...
